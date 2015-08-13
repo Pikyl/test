@@ -1,0 +1,6 @@
+{
+  "name": "DZ",
+  "dependencies": {
+    "jquery": "1.11"
+  }
+}
